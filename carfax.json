@@ -1,0 +1,42 @@
+[
+    {
+      "vin": "2HNYD2H58AH517332",
+      "brand": "Acura",
+      "model": "MDX",
+      "year": 2010,
+      "mileage_range": 120000,
+      "body": "suv",
+      "color": "grey",
+      "accident": "n",
+      "city": "sacramento",
+      "image": "https://carfax-img.vast.com/carfax/v2/-1442453261056427797/1/640x480",
+      "url": "https://www.carfax.com/vehicle/2HNYD2H58AH517332"
+    },
+    {
+      "vin": "4JGDF7CE7DA157360",
+      "brand": "Mercedez-Benz",
+      "model": "GL 450",
+      "year": 2013,
+      "mileage_range": 120000,
+      "body": "suv",
+      "color": "white",
+      "accident": "n",
+      "city": "los angeles",
+      "image": "https://carfax-img.vast.com/carfax/v2/7860326334843292112/1/640x480",
+      "url": "https://www.carfax.com/vehicle/4JGDF7CE7DA157360"
+    },
+    {
+      "vin": "1FAHP60A74Y110583",
+      "brand": "Ford",
+      "model": "Thunderbird",
+      "year": 2004,
+      "mileage_range": 110000,
+      "body": "convertible",
+      "color": "black",
+      "accident": "n",
+      "city": "baltimore",
+      "image": "https://carfax-img.vast.com/carfax/v2/-5257721893455389119/1/640x480",
+      "url": "https://www.carfax.com/vehicle/1FAHP60A74Y110583"
+    }
+  ]
+  
